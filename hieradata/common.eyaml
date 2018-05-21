@@ -1,0 +1,9 @@
+---
+classes:
+  - 'profile::base'
+
+ntp::servers:
+  - 0.us.pool.ntp.org
+  - 1.us.pool.ntp.org
+
+mysql::root_password: ENC[PKCS7,MIIBeQYJKoZIhvcNAQcDoIIBajCCAWYCAQAxggEhMIIBHQIBADAFMAACAQEwDQYJKoZIhvcNAQEBBQAEggEAAgtkAcisfBygNvuuF2xkRbuACSDFN6f2lvuBQh7wG8kWVBHFLJ+tJpVQYoV+DJ4hjOuzzi2si5/ppZH93qmRngzrm+T725V461yVatMEHaiHHEFYkEle87EyX71PFj6OPKihVTufTc0U2dp8yblEL2bedmzTYAPspGx3WfMBuj+sGtfzV4N4NCT348JxL/KHWnR9M047O9Arsdx0j7And9ximr7kksh7Ylj7OyHS3FkteIED1umsUWmiL0n+o9ewGaHh+cUagb+mqnpi9LKEsERX+3aSe6P2QjB1lB9yFWuF7CL0IQqcY5YyzUGVD/+juk5jT3IDihgxAI9hIsA8fzA8BgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBD+LragyX8E50JgsYslAKfrgBDgJbbDrI6KiK4cFkuifgx3]
